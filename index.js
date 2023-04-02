@@ -6,9 +6,7 @@ import Axios from "axios";
 import { oraPromise } from "ora";
 import fs from "fs";
 import { fileURLToPath } from "url";
-// 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
-// 5965903902:AAGB1b7PzWLir0U3DmSsZ440DLZ1Y6tCdhQ
-// 5929964678:AAF9Fkri5WueS0rvvR7MFmuWwTAYRSU32kw
+
 const telegram_bot_token = "bot token";
 const openai_token = "api key";
 // const apiKeySummery = "summery key"; //if you need add this
